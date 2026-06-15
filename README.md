@@ -19,4 +19,4 @@ AWS SageMaker, XGBoost, Amazon S3, cloud ML workflows, model deployment.
 
 ## Notes
 
-Completed as coursework for the Johns Hopkins AI on Cloud certificate. This is a learning project that demonstrates the SageMaker train-tune-deploy workflow on a course-provided dataset.
+Completed as coursework for the Johns Hopkins AI on Cloud certificate. This is a learning project that demonstrates the SageMaker train-tune-deploy workflow on the public Kaggle Bike Sharing Demand dataset used in the course.
